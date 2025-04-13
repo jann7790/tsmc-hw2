@@ -12,6 +12,10 @@ function add(a, b) {
   return a + b;
 }
 
+
+function power(a, b) {
+  return Math.pow(a, b);
+}
 /**
  * Subtracts b from a
  * @param {number} a - First number
