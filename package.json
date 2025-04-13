@@ -1,0 +1,17 @@
+{
+  "name": "tsmc-hw2",
+  "version": "1.0.0",
+  "description": "TSMC Homework 2 - GitHub Actions Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "eslint": "^8.38.0"
+  }
+}
