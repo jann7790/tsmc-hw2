@@ -1,2 +1,0 @@
-This is a test file that will be checked by our GitHub Action workflow.
-It must exist in the hw1-p branch but will be deliberately removed in hw1-f branch to cause the action to fail.
